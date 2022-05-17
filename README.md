@@ -9,4 +9,3 @@ LIST ALL CARDS IN LIST
 
 REPORT BOARD
 /boards/ << shortLink Board >> /report
-
